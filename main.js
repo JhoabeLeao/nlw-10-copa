@@ -27,19 +27,26 @@ document.querySelector('#cards').innerHTML =
 
   createCard("21/11", "segunda", createGame("inglaterra", "10:00", "irã")) +
   
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+  createCard("22/11", "quinta", createGame("brazil", "16:00", "serbia")) +
 
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+  createCard("23/11", "quinta", createGame("brazil", "16:00", "serbia")) +
 
-  createCard("28/11", "segunda", createGame("brazil", "13:00", "switzerland") +
+  createCard("24/11", "segunda", createGame("brazil", "13:00", "switzerland") +
     createGame("portugal", "16:00", "uruguai")) +
 
-  createCard("02/12", "sexta", createGame("brazil", "16:00", "cameroon")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) +
-  createCard("24/11", "quinta", createGame("brazil", "16:00", "serbia")) 
+  createCard("25/12", "sexta", createGame("brazil", "16:00", "cameroon")) +
+
+  createCard("26/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+
+  createCard("27/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+
+  createCard("28/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+
+  createCard("29/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+
+  createCard("30/11", "quinta", createGame("brazil", "16:00", "serbia")) +
+
+  createCard("1/12", "quinta", createGame("brazil", "16:00", "serbia")) +
+
+  createCard("2/12", "quinta", createGame("brazil", "16:00", "serbia")) 
 
