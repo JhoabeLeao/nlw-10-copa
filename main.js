@@ -74,10 +74,10 @@ createCard("30/11", "quarta", createGame("tunisia", "12:00", "GRUPO C", "france"
   createGame("poland", "16:00", "GRUPO C", "argentina") +
   createGame("saudi-arabia", "16:00", "GRUPO C", "mexico")) +
 
-  createCard("1/12", "quinta", createGame("croatia", "12:00", "belgium") +
-    createGame("canada", "12:00", "morocco") +
-    createGame("japan", "16:00", "spain") +
-    createGame("costa-rica", "16:00", "germany")) +
+createCard("1/12", "quinta", createGame("croatia", "12:00", "GRUPO C", "belgium") +
+  createGame("canada", "12:00", "GRUPO C", "morocco") +
+  createGame("japan", "16:00", "GRUPO C", "spain") +
+  createGame("costa-rica", "16:00", "GRUPO C", "germany")) +
 
   createCard("2/12", "sexta", createGame("south-korea", "12:00", "portugal") +
     createGame("ghana", "12:00", "uruguai") +
