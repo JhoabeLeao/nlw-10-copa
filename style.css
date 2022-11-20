@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+p {
+  font-size: large ;
+  color: #f7dd43;
+}
 :root {
   --card-color-primary: #f7dd43;
   --card-title-border-color: #746615;
